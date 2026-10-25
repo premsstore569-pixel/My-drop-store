@@ -1,5 +1,4 @@
-{
-  "name": "prems-premium-store",
+name": "prems-premium-store",
   "version": "2.0.0",
   "description": "Automated WhatsApp & UPI Dropshipping Store - Production Edition",
   "main": "app.js",
@@ -13,4 +12,4 @@
   "engines": {
     "node": ">=14.0.0"
   }
-}
+    }
