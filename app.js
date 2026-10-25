@@ -1268,19 +1268,4 @@ app.listen(PORT, () => {
     console.log("💳 UPI ID: premkumarmanthena289@oksbi");
     console.log("🔐 Merchant Portal PIN: 9014");
 });
-{
-  "name": "prems-premium-store",
-  "version": "2.0.0",
-  "description": "Automated WhatsApp & UPI Dropshipping Store - Production Edition",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
-  },
-  "engines": {
-    "node": ">=14.0.0"
-  }
-}
+
