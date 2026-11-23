@@ -1,1 +1,22 @@
+{
+  "name": "prems-store-enterprise",
+  "version": "7.0.0",
+  "description": "Prem's Store v7.0 - Hands-Free UPI Intent (PhonePe/GPay/Navi) & 8GB+ Scalable E-Commerce Platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "optionalDependencies": {
+    "compression": "^1.7.4",
+    "pg": "^8.11.3",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
 
