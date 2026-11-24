@@ -1,4 +1,4 @@
-```javascript
+
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
@@ -2412,4 +2412,4 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log('💳 P2P-Safe UPI Redirect: PhonePe | Google Pay | Navi | Safe-Open (' + cfg.upiId + ')');
     console.log('📲 WhatsApp: +' + cfg.whatsapp + ' | 🔐 Merchant PIN: ' + MERCHANT_PIN);
 });
-```
+
